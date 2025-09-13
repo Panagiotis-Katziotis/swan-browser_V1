@@ -1,1 +1,2 @@
 Για να τρέξετε το πρόγραμμα πρέπει να έχετε εκγαταστημένα στον υπολογηστή σας την Python(από 3 και πάνω), το PyQt5 και το PyQtWebEngine.
+You need to install the Python3 (and above), the PyQt5 and the PyQt5WebEngine to run this program. 
